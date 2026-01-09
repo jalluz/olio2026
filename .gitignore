@@ -2,18 +2,29 @@
 build/
 */build/
 
-# Compiled objects and binaries
+# Compiled object files
 *.o
 *.obj
+
+# Executables and output files
 *.exe
 *.out
+*.app
 
 # Temporary files
 *.tmp
 *.swp
 
-# Qt build folders
-build/
+# Qt Creator files
 *.user
 *.pro.user
-*.exe
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.ninja
+
+# Debug and IDE files
+*.pdb
+*.d
