@@ -1,3 +1,0 @@
-E:/Olio2026/Arvauspeli/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Arvauspeli.dir
-E:/Olio2026/Arvauspeli/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-E:/Olio2026/Arvauspeli/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
