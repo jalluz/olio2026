@@ -1,11 +1,13 @@
 cmake_minimum_required(VERSION 3.16)
-
 project(VK2 LANGUAGES CXX)
-
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(VK2 main.cpp)
+add_executable(VK2
+    main.cpp
+    Game.cpp
+    Game.h
+)
 
 include(GNUInstallDirs)
 install(TARGETS VK2
